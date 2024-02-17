@@ -1,0 +1,19 @@
+R  1920 1080
+SO ./textures/walls/WOLF3D/redbrick.xpm
+NO ./textures/walls/WOLF3D/eagle.xpm
+WE ./textures/walls/WOLF3D/greystone.xpm
+EA ./textures/walls/WOLF3D/mossy.xpm
+S  ./textures/sprites/death.xpm
+F 100, 100, 100
+C 170, 170, 210
+
+111111111111111 
+100000000000001            
+110000000001E01
+102222000000001
+100000222200001
+100000000000001
+100000000000001
+100000000000001
+100000000000001
+111111111111111
